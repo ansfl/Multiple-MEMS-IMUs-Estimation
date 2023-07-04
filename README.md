@@ -11,12 +11,12 @@ Inertial navigation systems (INS) are widely used in almost any operational envi
 
 A candidate solution that is often overlooked is the use of multiple sensors. The increased sampling of the observed phenomenon, results in the improvement of several key factors such as signal accuracy, frequency resolution, noise rejection, and higher redundancy. In this study, a stationary and levelled sensors array is taken, and its robustness against the instrumental errors is simplified and analyzed. Subsequently, the hypothesized model is compared with the experimental results, and the level of agreement between them is thoroughly discussed. Ultimately, our results showcase the vast potential of employing multiple sensors, as we observe improvements spanning from the signal level to each navigation state.
 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/PDF_vs_Time_Fin.png?raw=true" width="550" class='center'/>
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/PDF_vs_Time_Fin.png?raw=true" width="520" class='center'/>
 
 The main contribution of this work lies in four key aspects: (i) Novel analytical framework - we propose a simplified system model that is error-centred, with a specific focus on the contribution of the sensors count to the INS drift. (ii) Comprehensive validation - we evaluate the effectiveness of our model with an in-lab experiment, followed by a meticulous analysis, visualization, and discussion. (iii) Practicality - all improvements in accuracy and precision, were exclusively tested on real-world applications.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
- <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_combined.png?raw=true" width="500" class='center'/>
+ <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_combined.png?raw=true" width="520" class='center'/>
 
 
 ### Dataset
