@@ -15,19 +15,18 @@ A candidate solution that is often overlooked is the use of multiple sensors. Th
 
 The main contribution of this work lies in four key aspects: (i) Novel analytical framework - we propose a simplified system model that is error-centred, with a specific focus on the contribution of the sensors count to the INS drift. (ii) Comprehensive validation - we evaluate the effectiveness of our model with an in-lab experiment, followed by a meticulous analysis, visualization, and discussion. (iii) Practicality - all improvements in accuracy and precision, were exclusively tested on real-world applications.
 
-&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
  <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_combined.png?raw=true" width="550" class='center'/>
 
 
 ## Dataset
 
-The inertial measurements are obtained from a dedicated apparatus for alignment and synchronization of two arrays of five inertial MEMS-IMU  [`Xsense-DOT`](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.xsens.com/hubfs/Downloads/DOT/Documents/2021-07%20-%20Archived%20-%20Xsens%20DOT%20User%20Manual%20.pdf). 
+The inertial measurements are obtained from a dedicated apparatus for alignment and synchronization of two arrays of five inertial MEMS-IMU  [Xsense-DOT](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.xsens.com/hubfs/Downloads/DOT/Documents/2021-07%20-%20Archived%20-%20Xsens%20DOT%20User%20Manual%20.pdf). 
 
 "Xsens DOT sensor provides 3D angular velocity using a gyroscope, 3D acceleration using accelerometer and 3D earth magnetic field using a magnetometer. Combined with Xsens sensor fusion algorithms, 3D orientation and free acceleration are provided. With the wireless nature of Bluetooth 5.0, Xsens DOT sensor is an excellent measurement unit for tracking human body motions"
 
 &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; 
-&nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_XSENS_1.jpg?raw=true" width="350" class='center'/>
-
+&nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_XSENS_1.jpg?raw=true" width="425" class='center'/>
 
 ## Code
 
