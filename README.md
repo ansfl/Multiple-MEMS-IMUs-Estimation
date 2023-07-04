@@ -3,7 +3,7 @@
 <!-- # MEMS-IMU-Denoising
 This repository contains both code and experimental data associated with our paper "Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial". -->
 
-## Introduction
+### Introduction
 Inertial navigation systems (INS) are widely used in almost any operational environment, including aviation, marine, and land-based vehicles. Inertial measurements from accelerom- eters and gyroscopes, allow the INS to estimate position, velocity, and orientation of its host vehicle. However due to inherent sensor bias and noise, accuracy is degraded over time, as these error sources propagate into the state estimates, causing them to drift. To mitigate this, different approaches of parametric and state estimation have been proposed, to compensate for undesirable errors, by either frequency-domain filtering, or external information fusion. 
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
@@ -19,18 +19,14 @@ The main contribution of this work lies in four key aspects: (i) Novel analytica
  <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_combined.png?raw=true" width="550" class='center'/>
 
 
-## Dataset
+### Dataset
 
-The inertial measurements are obtained from a dedicated apparatus for alignment and synchronization of two arrays of five inertial MEMS-IMU  [Xsense-DOT](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.xsens.com/hubfs/Downloads/DOT/Documents/2021-07%20-%20Archived%20-%20Xsens%20DOT%20User%20Manual%20.pdf). 
+The inertial measurements are obtained from a dedicated apparatus for alignment and synchronization of two arrays of five inertial MEMS-IMU  [Xsense-DOT](https://www.xsens.com/hubfs/Downloads/Manuals/Xsens%20DOT%20User%20Manual.pdf). 
 
 "Xsens DOT sensor provides 3D angular velocity using a gyroscope, 3D acceleration using accelerometer and 3D earth magnetic field using a magnetometer. Combined with Xsens sensor fusion algorithms, 3D orientation and free acceleration are provided. With the wireless nature of Bluetooth 5.0, Xsens DOT sensor is an excellent measurement unit for tracking human body motions"
 
 &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; 
 &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/ansfl/Multiple-MEMS-IMU-Estimation/blob/main/figures/Fig_XSENS_1.jpg?raw=true" width="425" class='center'/>
-
-## Code
-
-Execution code is straight forward, and for convenience, concentrated in one consolidated Python notebooks, enabling reproduction of our results.
 
 
 ### Directory tree
@@ -46,7 +42,7 @@ Execution code is straight forward, and for convenience, concentrated in one con
 </pre>
 
 
-## Citation
+### Citation
 
 If you found the paper's CODE helpful in your research, please cite our paper:
 ```
