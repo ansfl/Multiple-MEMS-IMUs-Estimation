@@ -45,12 +45,12 @@ The data in this work was obtained from a dedicated apparatus for alignment and 
 
 If you found the paper's CODE helpful in your research, please cite our paper:
 ```
-@article{engelsman2023multiple,
+@article{engelsman2023parametric,
   title={Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial},
-  author={Engelsman, Daniel, and Stolero, Yair, and Klein, Itzik},
-  journal={arXiv},
-  year={2023},
+  author={Engelsman, Daniel and Stolero, Yair and Klein, Itzik},
+  journal={arXiv preprint arXiv:2307.08571},
+  year={2023}
 }
 ```
 
-[<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2206.05937)
+[<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2307.08571)
