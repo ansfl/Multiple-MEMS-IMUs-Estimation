@@ -45,10 +45,12 @@ The data in this work was obtained from a dedicated apparatus for alignment and 
 
 If you found the paper's CODE helpful in your research, please cite our paper:
 ```
-@article{engelsman2023parametric,
-  title={Parametric and State Estimation of Stationary MEMS-IMUs: A Tutorial},
-  author={Engelsman, Daniel and Stolero, Yair and Klein, Itzik},
-  journal={arXiv preprint arXiv:2307.08571},
+@article{zakharchenko2024doorinet,
+  title={DoorINet: A Deep-Learning Inertial Framework for Door-Mounted IoT Applications},
+  author={Zakharchenko, Aleksei and Farber, Sharon and Klein, Itzik},
+  journal={arXiv preprint arXiv:2402.09427},
+  year={2024}
+}
   year={2023}
 }
 ```
